@@ -14,5 +14,5 @@ Key deliverable from Local hosting an LLM for IRP
 The current challenge:
 the large context window (n_ctx=27388) for LLaMA-2 causes processing delays on my available hardware, impacting real-time incident investigations. currently addressing this challeng by the following: dynamically reducing the context size through data partitioning, enhancing GPU acceleration with model quantization, and streamlining preprocessing to lower the data volume for the LLM.
 
+![Alt Text](https://raw.githubusercontent.com/YOussef-Hany-Mohamed/LLM-For-Cyber-Security-/main/ADIB.png)
 
-![ADIB]([https://raw.githubusercontent.com/YOussef-Hany-Mohamed/LLM-For-Cyber-Security-/main/ADIB.png](https://github.com/YOussef-Hany-Mohamed/LLM-For-Cyber-Security-/blob/main/IRP.png))
