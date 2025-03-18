@@ -17,4 +17,10 @@ the large context window (n_ctx=27388) for LLaMA-2 causes processing delays on m
 ![IRP Updated Diagram](https://raw.githubusercontent.com/YOussef-Hany-Mohamed/LLM-For-Cyber-Security-/main/IRP%20updated.png)
 ![IRP Updated 2](https://raw.githubusercontent.com/YOussef-Hany-Mohamed/LLM-For-Cyber-Security-/main/IRP%20updated%202.png)
 
-
+Second Project(Planned)
+CrewAI Generator built using Streamlit that allows users to generate AI agent configurations dynamically. The tool leverages LLAMA large language Model to analyze user requirements and create a structured CrewAI setup, including agents, tasks, and necessary tools.
+Feature
+Accepts simple English input to define AI agents and tasks
+Automatically generates a structured AI workflow
+Provides ready-to-use Python code for CrewAI
+![ADIB](https://raw.githubusercontent.com/YOussef-Hany-Mohamed/LLM-For-Cyber-Security-/main/ADIB.png)
