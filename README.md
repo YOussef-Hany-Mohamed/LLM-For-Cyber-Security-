@@ -7,8 +7,8 @@ Security teams receive large volumes of raw SIEM alerts that lack actionable con
 -Maps parsed logs to MITRE ATT&CK techniques using keyword matching for contextual threat insights.
 -Leverages a locally hosted LLAMA LLM to generate structured, detailed incident response scenarios.
 -Designed for SOC teams, incident responders, and cybersecurity professionals to expedite investigations.
--Future enhancements include integrating n8n and Qdrant for automated, AI-powered security workflows.
-Key deliverable from Local hosting an LLM for IRP
+-Future enhancements include integrating n8n(An open-source workflow automation tool that connects APIs, databases, and services with a visual editor.) and Qdrant (A high-performance vector database for similarity search, optimized for AI, LLMs, and recommendation systems.) for automated, AI-powered security workflows.
+Key deliverable from Local hosting Llama Large Language model for IRP
 ✅ Saveing time: Automates alert triage & classification.
 ✅ Improves security posture: Helps SOC teams act faster on threats.
 The current challenge:
